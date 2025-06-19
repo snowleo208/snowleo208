@@ -19,7 +19,7 @@ Hey there, I'm Yuki!
 
 As a front-end software engineer, I thrive on creating seamless user experiences. I collaborate closely with designers to bring visions to life, using tools like React, Next.js, TypeScript, and automated testing to ensure top-notch quality.
 
-When I'm not crafting code, you'll often find me immersed in the worlds of Fire Emblem and The Legend of Zelda—those series are my absolute favorites! Lately, I've been delving into the fascinating realm of AI-related topics too.
+When I'm not crafting code, you'll often find me immersed in the worlds of Fire Emblem and The Legend of Zelda! Lately, I've been delving into AI-related topics too.
 
 ## 🛠️ Technologies and Tools I use:
 
